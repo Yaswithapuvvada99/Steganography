@@ -1,4 +1,4 @@
-# Stenography
+# Steganography
 Image Steganography – Hide Data Inside Images
 
 📌 Project Overview
